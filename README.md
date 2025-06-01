@@ -1,4 +1,4 @@
-```sh
+
 # Microservices Project with Spring Boot
 
 Este proyecto es una arquitectura de microservicios implementada con Spring Boot, Spring Cloud y Eureka. Todo corre en local y está diseñado para ser modular, escalable y mantenible.
