@@ -1,0 +1,20 @@
+# Java / Maven
+target/
+*.log
+*.class
+*.jar
+*.war
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+application-*.yml
+application-*.properties
